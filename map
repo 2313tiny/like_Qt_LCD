@@ -1,0 +1,14 @@
+
+	7 segment display 
+	pin configuration
+
+
+	--A--
+	|   |	
+	F   B
+	|   |
+	--G--
+	|   |
+	E   C	
+	|   |
+	--D--
